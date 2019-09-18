@@ -1,1 +1,1 @@
-worker: python 앙티T.py
+worker: python 앙티t.py
